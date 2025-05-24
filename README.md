@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Md. Sajib Miah</h1>
+<h1 align="center">Hi there 👋, I'm Akshar</h1>
 <h3 align="center">💻 Front-End Developer | 🏆 Competitive Programmer | 🌱 Lifelong Learner</h3>
 
 ---
@@ -9,16 +9,8 @@
 - 🌱 I’m currently learning **Java, C#, C++**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 💬 Ask me about **Web Development**, **App Development**, and **Software Engineering**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/md-sajib-miah-b70628222/)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/inakshar-gangani/)  
 - 🧠 Always exploring new tech and improving my problem-solving skills!
-
----
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,java,python,cpp,cs,dart,flutter,mysql,git,github,vscode,netlify,linux&theme=light" />
-</p>
-
 ---
 
 ### 💡 Tech Stack
