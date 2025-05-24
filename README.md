@@ -45,23 +45,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsojibmiah&show_icons=true&count_private=true&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsojibmiah&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshar&show_icons=true&count_private=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshar&layout=compact&theme=react" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsojibmiah&theme=react" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshar&theme=react" alt="streak"/>
 </p>
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdsojibmiah&label=Profile%20views&color=0e75b6&style=flat" alt="mdsojibmiah" />
+  <img src="https://komarev.com/ghpvc/?username=Akshar&label=Profile%20views&color=0e75b6&style=flat" alt="Akshar" />
 </p>
 
 
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://github.com/mdsojibmiah"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Akshar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/md-sajib-miah-b70628222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://facebook.com/sojib.hossen.104"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/sojib_error"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
