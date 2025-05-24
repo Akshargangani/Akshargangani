@@ -61,7 +61,7 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://github.com/Akshar"><img src="https://www.linkedin.com/in/akshar-gangani/" /></a>
+  <a href="https://github.com/Akshar"><img src="[https://www.linkedin.com/in/akshar-gangani/](https://www.linkedin.com/in/akshar-gangani/)" /></a>
   <a href="https://linkedin.com/in/md-sajib-miah-b70628222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://facebook.com/sojib.hossen.104"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/sojib_error"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
