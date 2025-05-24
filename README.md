@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Md. Sajib Miah</h1>
 <h3 align="center">💻 Front-End Developer | 🏆 Competitive Programmer | 🌱 Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://i.imghippo.com/files/2GJt91728533781.png" alt="banner" width="80%" />
-</p>
-
 ---
 
 ### 🚀 About Me
