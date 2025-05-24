@@ -37,11 +37,6 @@
 
 ---
 
-### 🏆 Competitive Programming  
-- Solving challenges on [LeetCode](https://leetcode.com/u/CodeWithError/) & [Codeforces](https://codeforces.com/profile/CodeWithError)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
