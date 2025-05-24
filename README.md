@@ -52,8 +52,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsojibmiah&theme=react" alt="streak"/>
 </p>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mdsojibmiah&theme=flat&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdsojibmiah&label=Profile%20views&color=0e75b6&style=flat" alt="mdsojibmiah" />
