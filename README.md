@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" />
   </a>
   <a href="https://akshar.github.io/personal-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-12100E?style=flat&logo=vercel&logoColor=white" />
+    <img src="https://github.com/Akshargangani" />
   </a>
 </p>
 
