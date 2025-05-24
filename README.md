@@ -73,10 +73,9 @@
   <a href="https://stackoverflow.com/users/akshar">
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" />
   </a>
- <a href="https://github.com/Akshar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/Akshar">
+  <img src="https://img.shields.io/badge/Akshar_Gangani-181717?style=flat&logo=github&logoColor=white" alt="Akshar Gangani GitHub" />
 </a>
-
 </p>
 
 
