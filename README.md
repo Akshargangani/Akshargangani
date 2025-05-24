@@ -61,14 +61,29 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://github.com/Akshar"><img src="[https://www.linkedin.com/in/akshar-gangani/](https://www.linkedin.com/in/akshar-gangani/)" /></a>
-  <a href="https://linkedin.com/in/md-sajib-miah-b70628222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/sojib.hossen.104"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/sojib_error"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/mdsajibmiah21"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/19809428/md-sajib-miah"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" /></a>
-  <a href="https://mdsojibmiah.github.io/personal-portfolio/"><img src="https://img.shields.io/badge/Portfolio-12100E?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/Akshar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/akshar-gangani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/akshar">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/akshar">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/akshar">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/akshar">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://akshar.github.io/personal-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-12100E?style=flat&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
