@@ -31,7 +31,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 
 ---
 
