@@ -34,22 +34,25 @@
 ![javascript](https://img.shields.io/badge/-Javascript-007396?style=flat&logo=Javascript)
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshar&show_icons=true&count_private=true&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshar&layout=compact&theme=react" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshar&theme=react" alt="streak"/>
-</p>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akshar&label=Profile%20views&color=0e75b6&style=flat" alt="Akshar" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true"
+    height="170"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ### 🌐 Connect with Me
 
