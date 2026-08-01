@@ -11,7 +11,7 @@
 - 💬 Ask me about **Web Development**, **App Development**, and **Software Engineering**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/inakshar-gangani/)  
 - 🧠 Always exploring new tech and improving my problem-solving skills!
----
+----
 
 ### 💡 Tech Stack
 
