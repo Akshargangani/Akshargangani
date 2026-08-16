@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Akshar</h1>
 <h3 align="center">💻 Front-End Developer | 🏆 Competitive Programmer | 🌱 Lifelong Learner</h3>
 
------
+----
 
 ### 🚀 About Me
 
