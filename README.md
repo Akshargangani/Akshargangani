@@ -2,7 +2,7 @@
 <h3 align="center">💻 Front-End Developer | 🏆 Competitive Programmer | 🌱 Lifelong Learner</h3>
 
 ----  
- 
+  
 ### 🚀 About Me
 
 - 🔭 I’m currently working as a **Web & App Developer** and **Software Developer**  
