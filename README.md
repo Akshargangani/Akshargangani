@@ -3,7 +3,7 @@
 
 ----   
   
-### 🚀 About Me 
+### 🚀 About Me  
 
 - 🔭 I’m currently working as a **Web & App Developer** and **Software Developer**  
 - 🌱 I’m currently learning **Java, C#, C++**  
